@@ -1,7 +1,7 @@
 # House-Prices-Prediction
 House Prices Kaggle Competition
 
-This project is part of the House Prices competition on Kaggle, where the goal is to predict the final price of residential homes in Ames, Iowa. The dataset includes 79 explanatory variables describing aspects of residential homes.
+This project is part of the House Prices competition on [Kaggle](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques), where the goal is to predict the final price of residential homes in Ames, Iowa. The dataset includes 79 explanatory variables describing aspects of residential homes.
 
 ## 📌 Project Structure
 
