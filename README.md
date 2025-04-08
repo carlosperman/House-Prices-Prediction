@@ -6,6 +6,7 @@ This project is part of the House Prices competition on Kaggle, where the goal i
 ## 📌 Project Structure
 
 The project is developed using PySpark and consists of two main Jupyter notebooks:
+
 🔹 cleaning.ipynb
 Loads and inspects the training and test datasets.
 
