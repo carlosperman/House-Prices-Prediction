@@ -23,7 +23,7 @@ Preprocesses the features (standardization, transformation, encoding if needed).
 
 Trains several machine learning models using PySpark MLlib.
 
-Evaluates and compares model performance using appropriate metrics (e.g. RMSE).
+Evaluates and compares model performance using appropriate metrics (RMSE in this case).
 
 ## 📊 Dataset
 The dataset contains comprehensive information on housing attributes in Ames, Iowa. A full description of the variables can be found in the file data_description.txt, which includes the definition of each feature used in the analysis.
